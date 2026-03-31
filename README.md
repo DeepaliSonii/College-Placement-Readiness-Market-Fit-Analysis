@@ -1,4 +1,4 @@
-"""# College Placement Readiness & Market Fit Analysis
+# College Placement Readiness & Market Fit Analysis
 
 ## 📌 Project Overview
 This project analyzes student data and resumes to predict placement readiness, identify skill gaps, and evaluate market fit.
