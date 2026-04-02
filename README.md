@@ -1,8 +1,7 @@
 # College Placement Readiness & Market Fit Analysis
 
 ## 📌 Project Overview
-This project analyzes student data and resumes to predict placement readiness, identify skill gaps, and evaluate market fit.
-
+This project is a placement readiness prediction system that analyzes a student’s academic and skill profile to estimate their chances of getting placed. It uses an XGBoost machine learning model to predict placement outcomes The system also calculates a readiness score. Additionally, skill gap analysis and market fit evaluation. The project aims to help students understand their strengths and areas for improvement for better career preparation.
 ---
 
 ## 🚀 Features
@@ -18,7 +17,6 @@ This project analyzes student data and resumes to predict placement readiness, i
 
 ### 1. Student Dataset (Uploaded in Project)
 - File: `college_placement_ds.csv`
-- Location: `data/` folder
 - Description:
   This dataset contains student academic and skill-related information used for placement analysis.
 
@@ -44,7 +42,7 @@ This project analyzes student data and resumes to predict placement readiness, i
 
 - Note:
   Due to large file size, this dataset is not uploaded in the repository.
-  It can be downloaded from the above link and placed in the `data/` folder.
+  It can be downloaded from the above link.
 
 ---
 
@@ -70,15 +68,7 @@ This project analyzes student data and resumes to predict placement readiness, i
 - Predict placement readiness score
 - Identify skill gaps based on industry demand
 - Evaluate market fit between student skills and job requirements
-- Provide curriculum improvement insights
 - Help students improve employability and placement chances
-
----
-
-## ▶️ How to Run
-
-Install dependencies:
-pip install -r requirements.txt
 
 ---
 
