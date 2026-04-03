@@ -1,7 +1,7 @@
 # College Placement Readiness & Market Fit Analysis
 
 ## 📌 Project Overview
-This project is a placement readiness prediction system that analyzes a student’s academic and skill profile to estimate their chances of getting placed. It uses an XGBoost machine learning model to predict placement outcomes The system also calculates a readiness score. Additionally, skill gap analysis and market fit evaluation. The project aims to help students understand their strengths and areas for improvement for better career preparation.
+- This project is a placement readiness prediction system that analyzes a student’s academic and skill profile to estimate their chances of getting placed. It uses an XGBoost machine learning model to predict placement outcomes The system also calculates a readiness score. Additionally, skill gap analysis and market fit evaluation. The project aims to help students understand their strengths and areas for improvement for better career preparation.
 ---
 
 ## 🚀 Features
