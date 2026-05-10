@@ -72,6 +72,98 @@
 
 ---
 
+## Methodology
+
+- Student data and résumé are collected through the Streamlit interface.
+- Academic details, skills, internships, and projects are extracted and processed.
+- Data preprocessing is performed to clean and normalize the dataset.
+- The XGBoost model predicts placement readiness and generates a readiness score.
+- Résumé skills are extracted using PDF/DOCX parsing techniques.
+- Groq API with LLaMA 3.3 70B performs skill gap and market fit analysis.
+- Missing skills and improvement areas are identified.
+- Personalized recommendations and learning roadmap are generated.
+- All results are displayed using an interactive Streamlit dashboard with charts and visualizations.
+---
+
+### workflow 
+<p align="center">
+  <img src="Screenshots/workflow.png" width="90%">
+</p>
+
+---
+
+### Results
+# Results and Dashboard Screenshots
+
+The system generates placement readiness predictions, market fit analysis, and personalized recommendations through an interactive dashboard.
+
+---
+
+## 1. Home Dashboard
+
+The home dashboard allows students to upload resumes, enter academic details, and select their target career role.
+
+<p align="center">
+  <img src="Screenshots/Home.jpeg" width="90%">
+</p>
+
+---
+
+## 2. Resume Upload and Profile Input
+
+Students can upload PDF/DOCX resumes and provide placement-related information.
+
+<p align="center">
+  <img src="Screenshots/homer.jpeg" width="90%">
+</p>
+
+---
+
+## 3. Placement Readiness Dashboard
+
+Displays:
+- Readiness score
+- Placement prediction
+- Industry readiness comparison
+- Radar chart analysis
+
+<p align="center">
+  <img src="Screenshots/Readiness.jpeg" width="90%">
+</p>
+
+---
+
+## 4. Market Fit Analysis
+
+The system compares student skills with industry-required skills and calculates market fit percentage.
+
+<p align="center">
+  <img src="Screenshots/martketfit.jpeg" width="90%">
+</p>
+
+---
+
+## 5. Career Role Selection
+
+Students can analyze their profile for different job roles such as:
+- Data Scientist
+- Software Engineer
+- ML Engineer
+- Frontend Developer
+
+<p align="center">
+  <img src="Screenshots/role.jpeg" width="90%">
+</p>
+
+---
+
+## 6. Personalized Suggestions
+
+Provides improvement suggestions and career roadmap recommendations.
+
+<p align="center">
+  <img src="Screenshots/suggestions.jpeg" width="90%">
+</p>
 
 ## 📌 Conclusion
 
