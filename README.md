@@ -87,13 +87,13 @@
 
 ### workflow 
 <p align="center">
-  <img src="Screenshots/workflow.png" width="90%">
+  <img src="Screenshots/Workflow.png" width="90%">
 </p>
 
 ---
 
-### Results
-# Results and Dashboard Screenshots
+
+# Results
 
 The system generates placement readiness predictions, market fit analysis, and personalized recommendations through an interactive dashboard.
 
