@@ -85,9 +85,9 @@
 - All results are displayed using an interactive Streamlit dashboard with charts and visualizations.
 ---
 
-### workflow 
+### Workflow 
 <p align="center">
-  <img src="Screenshots/Workflow.png" width="90%">
+  <img src="Screenshots/Workflow.png" width="20%">
 </p>
 
 ---
